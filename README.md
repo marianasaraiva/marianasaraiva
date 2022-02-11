@@ -1,9 +1,8 @@
-### Olá, Sejam bem-vindos!! 👋
-
-Aqui é um espaço de aprendizado e compartilhamento de informações. 
+### <Hello World! Sejam bem-vindos!! 👋>
 
 - 💬 Sou apaixonada por tecnologia, aprendendo o màximo possível deste universo. Atualmente sou estudante na Trybe, local que iniciei minha jornada no Desenvolvimento Web.
 - 🤔 Durante o curso estarei aprofundando em 4 grandes módulos que são: Fundamentos de desenvolvimento web, front-end, back-end e ciências da computação.
+- Aqui é um espaço de aprendizado e compartilhamento de informações. 
 - <a href="https://www.linkedin.com/in/mariana-saraiva-977a251b3/">LinkedIn</a>
 
 Vem participar comigo desse mundo de descobertas.
