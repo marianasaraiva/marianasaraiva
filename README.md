@@ -9,6 +9,6 @@
 
 ## Estatísticas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianasaraiva&count_private=true&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianasaraiva&layout=compact&theme=tokyonight&card_width=430)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianasaraiva&layout=compact&theme=tokyonight&card_width=440)](https://github.com/anuraghazra/github-readme-stats)
 
 ReadMe stats by [@anuraghazra](https://github.com/anuraghazra/github-readme-stats)
