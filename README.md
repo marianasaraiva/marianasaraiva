@@ -1,4 +1,15 @@
 # **<Hi 👋, I'm Mariana!> <Welcome!>**
+<p align="left">
+<a href="https://linkedin.com/in/marianascmoura" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/marianascmoura" height="30" width="40" />
+</a>
+<a href="https://www.codewars.com/users/marianasaraiva" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="marianasaraiva" height="30" width="40" />
+</a>
+<a href="https://instagram.com/mari.saraiva08" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mari.saraiva08" height="30" width="40" />
+</a>
+</p>
 
 - 💬 Sou falante e timida, na mesma medida... Sou apaixonada por viagens e vivenciar novas experiências, e foi assim, que cheguei na área da tecnologia. Atualmente sou estudante na Trybe, local que iniciei minha jornada como Desenvolvedora Web.
 - 🤔 Durante o curso estarei aprofundando em 4 grandes módulos que são: Fundamentos de desenvolvimento web, front-end, back-end e ciências da computação.
