@@ -11,11 +11,11 @@
 </a>
 </p>
 
-- 💬 Sou falante e timida, na mesma medida... Sou apaixonada por viagens e vivenciar novas experiências, e foi assim, que cheguei na área da tecnologia. Atualmente sou estudante na Trybe, local que iniciei minha jornada como Desenvolvedora Web.
-- 🤔 Durante o curso estarei aprofundando em 4 grandes módulos que são: Fundamentos de desenvolvimento web, front-end, back-end e ciências da computação.
-- Aqui é um espaço de aprendizado e compartilhamento de informações, portanto, feedbacks e contribuiçoões são sempre bem vindas.
+- 💬 I'm talkative and shy, in the same measure... I'm passionate about traveling and experiencing new experiences, and that's how I arrived in the area of technology. I am currently a student at Trybe, where I started my journey as a Web Developer.
+- During the course I will be delving into 4 major modules which are: Fundamentals of web development, front-end, back-end and computer science.
+- 🤔 This is a space for learning and sharing information, so feedback and contributions are always welcome.
 
-## Ferramentas e linguagens 
+## Tools and languages 
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -43,7 +43,7 @@
   </a>
 </p>
 
-## Estatísticas
+## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianasaraiva&count_private=true&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianasaraiva&layout=compact&theme=tokyonight&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
