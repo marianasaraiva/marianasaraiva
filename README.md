@@ -4,15 +4,13 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/marianascmoura" height="30" width="40" />
 </a>
 <a href="https://www.codewars.com/users/marianasaraiva" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="marianasaraiva" height="30" width="40" />
+  <img align="center" src="https://www.codewars.com/users/marianasaraiva/badges/micro" alt="marianasaraiva" />
 </a>
-<a href="https://instagram.com/mari.saraiva08" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mari.saraiva08" height="30" width="40" />
-</a>
-</p>
+</p align="justify">
 
 - 💬 I'm talkative and shy, in the same measure... I'm passionate about traveling and experiencing new experiences, and that's how I arrived in the area of technology. I am currently a student at Trybe, where I started my journey as a Web Developer.
 - During the course I will be delving into 4 major modules which are: Fundamentals of web development, front-end, back-end and computer science.
+- Currently learning about Back-end, , focusing on Node.js, TypeScript and MongoDB.
 - 🤔 This is a space for learning and sharing information, so feedback and contributions are always welcome.
 
 ## Tools and languages 
@@ -44,7 +42,11 @@
 </p>
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianasaraiva&count_private=true&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianasaraiva&layout=compact&theme=tokyonight&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=marianasaraiva&count_private=true&show_icons=true&theme=tokyonight" height="180em" align="center" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianasaraiva&layout=compact&theme=tokyonight&hide=r,dockerfile" height="180em" align="center" />
+</a>
 
 ReadMe stats by [@anuraghazra](https://github.com/anuraghazra/github-readme-stats)
