@@ -8,9 +8,9 @@
 </a>
 </p align="justify">
 
-- 💬 I'm talkative and shy, in the same measure... I'm passionate about traveling and experiencing new experiences, and that's how I arrived in the area of technology. I am currently a student at Trybe, where I started my journey as a Web Developer.
+- 💬 I'm passionate about traveling and experiencing new experiences, and that's how I arrived in the area of technology. I am currently a student at Trybe, where I started my journey as a Web Developer.
 - During the course I will be delving into 4 major modules which are: Fundamentals of web development, front-end, back-end and computer science.
-- Currently learning about Back-end, , focusing on Node.js, TypeScript and MongoDB.
+- Currently learning about Back-end, focusing on Node.js, TypeScript and MongoDB.
 - 🤔 This is a space for learning and sharing information, so feedback and contributions are always welcome.
 
 ## Tools and languages 
