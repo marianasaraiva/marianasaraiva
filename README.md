@@ -55,7 +55,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=marianasaraiva&count_private=true&show_icons=true&theme=tokyonight" height="180em" align="center" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianasaraiva&layout=compact&theme=tokyonight&hide=r,dockerfile" height="180em" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianasaraiva&layout=compact&theme=tokyonight" height="180em" align="center" />
 </a>
 
 <!-- width="400em" -->
