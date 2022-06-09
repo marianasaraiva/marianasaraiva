@@ -9,7 +9,7 @@
 </p align="justify">
 
 - 💬 I'm passionate about traveling and experiencing new experiences, and that's how I arrived in the technology field. In continuous learning in the area of Web Development.
-- Currently learning about Back-end, focusing on Node.js, TypeScript and MongoDB.
+- Currently learning about Back-end, focusing on Node.js, TypeScript and MySQL.
 - 🤔 This is a space for learning and sharing information, so feedback and contributions are always welcome.
 
 ## Tools and languages 
